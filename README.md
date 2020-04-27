@@ -1,2 +1,2 @@
 React app 
-![Pokedex](https://ibb.co/sRyDnzH)
+![Pokedex](https://i.ibb.co/7C2TPL4/Pokedex.png)
